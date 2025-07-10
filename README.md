@@ -127,7 +127,7 @@ ork.md`](./notes/cip-controls-framework.md) – NERC CIP, ISO, and other framewo
 
 ## 🎓 Certificate
 
-- 📜 [`certificate-introduction-to-cip.pdf`](./cert/certificate-introduction-to-cip.pdf)
+- 📜 [`cert/introduction_to_cip.png`](./cert/cert/introduction_to_cip.png)
 
 ---
 
