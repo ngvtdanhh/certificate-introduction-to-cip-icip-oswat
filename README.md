@@ -50,7 +50,7 @@ These simulated hands-on exercises help reinforce understanding:
 
 ## 🎓 Certificate
 
-- 📜 [`cert/introduction_to_cip.png`](./cert/cert/introduction_to_cip.png)
+- 📜 [`cert/introduction_to_cip.png`](./cert/introduction_to_cip.png)
 
 ---
 
