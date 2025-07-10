@@ -7,11 +7,17 @@ This lab simulates basic segmentation between IT and OT networks, demonstrating 
 ## 🛠️ 1. Lab Topology
 
 [Internet]
+
 |
+
 [Router + Firewall]
+
 |
+
 [IT VLAN] [OT VLAN]
+
 | |
+
 [Admin PC] [SCADA PLC + HMI]
 
 
