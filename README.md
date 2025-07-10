@@ -13,8 +13,100 @@ This repository contains all my learning notes, demo labs, practicals, screensho
 ## 📚 Course Notes
 
 - 🧱 [`cip-foundations.md`](./notes/cip-foundations.md) – Definitions, sectors, and ICS environment
-- 🛠️ [`ics-architecture.md`](./notes/ics-architecture.md) – Purdue Model, protocols, physical layers
-- 🔐 [`cip-controls-framework.md`](./notes/cip-controls-framework.md) – NERC CIP, ISO, and other frameworks
+- 🛠️ [`ics-architecture.m# 🏭 Introduction to Critical Infrastructure Protection (CIP) – ICIP OSWAT
+
+![Course](https://img.shields.io/badge/OSWAT-ICIP%20Certified-brightgreen?style=flat-square&logo=fortinet)
+![Status](https://img.shields.io/badge/Status-Completed-blue?style=flat-square&logo=verizon)
+![Focus](https://img.shields.io/badge/Focus-ICS%20%26%20CIP%20Security-orange?style=flat-square&logo=siemens)
+![Type](https://img.shields.io/badge/Type-Self--Study-informational?style=flat-square&logo=openaccess)
+![Maintainer](https://img.shields.io/badge/Maintainer-Thành%20Danh-blueviolet?style=flat-square&logo=github)
+
+This repository documents all learning content and practice for the **"Introduction to Critical Infrastructure Protection (CIP)"** course provided by ICIP – OSWAT.  
+It includes notes, demos, risk simulations, screenshots, and a certificate of completion.
+
+---
+
+## 📚 Course Notes
+
+All notes are written in Markdown, covering technical and policy-based aspects of ICS and CIP:
+
+- 🧭 [`cip-overview.md`](./notes/cip-overview.md) – Introduction, scope, and sectors of CIP  
+- ⚙️ [`ics-components.md`](./notes/ics-components.md) – PLCs, RTUs, HMIs, and control hierarchy  
+- 🚨 [`threat-landscape.md`](./notes/threat-landscape.md) – Real-world ICS threat actors and APTs  
+- 🛡️ [`policy-and-compliance.md`](./notes/policy-and-compliance.md) – NERC CIP, ISO 27019, and legal mandates  
+- 🎯 [`attack-scenarios.md`](./notes/attack-scenarios.md) – Example attacks on ICS: logic bombs, ransomware, DNP3 spoofing  
+
+---
+
+## 💻 Demo Labs
+
+These simulated hands-on exercises help reinforce understanding:
+
+- 🌐 [`network-segmentation-lab.md`](./demo/network-segmentation-lab.md) – IT/OT segmentation using `iptables` and subnets  
+- 🧪 [`scada-vuln-analysis.md`](./demo/scada-vuln-analysis.md) – Assessing SCADA exposures (weak auth, default creds, cleartext)
+
+---
+
+## 🧠 Practicals
+
+- 📊 [`cip-risk-assessment-simulation.md`](./practicals/cip-risk-assessment-simulation.md) – Impact-based risk rating on ICS targets  
+- 🐍 [`scada_log_anomaly.py`](./practicals/scada_log_anomaly.py) – Basic anomaly detection using SCADA log patterns
+
+---
+
+## 📸 Screenshots
+
+| Section                | Screenshot                                |
+|------------------------|-------------------------------------------|
+| 🧱 Course Introduction  | ![](./screenshots/IcIp-course-1.png)      |
+| ⚙️ ICS Foundations      | ![](./screenshots/IcIp-course-2.png)      |
+| 📘 Course Completion    | ![](./screenshots/IcIp-course-review.png) |
+
+---
+
+## 🎓 Certificate
+
+- 📜 [`certificate-introduction-to-cip.pdf`](./cert/certificate-introduction-to-cip.pdf)
+
+---
+
+## 📝 Course Review: ICIP OSWAT – Introduction to CIP
+
+This course delivers a robust introduction to securing critical infrastructure systems (ICS/SCADA/OT) through practical and policy-focused content.
+
+✅ **What I Liked**  
+- Realistic ICS examples (RTUs, PLCs, attack paths)  
+- Legal + governance integration (NERC, ISA, ISO)  
+- Clear demos and modular approach
+
+📌 **Suggestions**  
+- Expand more on OT ransomware case studies  
+- Include mini CTF or hands-on tool use (e.g., Snort, Wireshark)
+
+---
+
+## 🤝 Code of Conduct
+
+We strive to foster an inclusive and respectful learning environment.  
+See [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md)
+
+---
+
+## ✍️ Author
+
+**Thành Danh** – Pentester & Cybersecurity Researcher  
+GitHub: [@ngvtdanhh](https://github.com/ngvtdanhh)  
+Email: ngvu.thdanh@gmail.com
+
+---
+
+## 📄 License
+
+This project is licensed under the **GNU AGPL v3.0**.  
+See [`LICENSE`](./LICENSE) for details.
+
+© 2025 ngvtdanhh. All rights reserved.
+ork.md`](./notes/cip-controls-framework.md) – NERC CIP, ISO, and other frameworks
 
 ---
 
