@@ -152,13 +152,6 @@ Additional deep-dive demos and strategy docs (e.g., `ICS Forensics`) are in prog
 
 ---
 
-## 🤝 Code of Conduct
-
-We commit to respectful, inclusive communication.  
-See [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md)
-
----
-
 ## ✍️ Author
 
 **Thành Danh** – Pentester & Cybersecurity Research  
