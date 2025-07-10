@@ -12,22 +12,6 @@ This repository contains all my learning notes, demo labs, practicals, screensho
 
 ## 📚 Course Notes
 
-- 🧱 [`cip-foundations.md`](./notes/cip-foundations.md) – Definitions, sectors, and ICS environment
-- 🛠️ [`ics-architecture.m# 🏭 Introduction to Critical Infrastructure Protection (CIP) – ICIP OSWAT
-
-![Course](https://img.shields.io/badge/OSWAT-ICIP%20Certified-brightgreen?style=flat-square&logo=fortinet)
-![Status](https://img.shields.io/badge/Status-Completed-blue?style=flat-square&logo=verizon)
-![Focus](https://img.shields.io/badge/Focus-ICS%20%26%20CIP%20Security-orange?style=flat-square&logo=siemens)
-![Type](https://img.shields.io/badge/Type-Self--Study-informational?style=flat-square&logo=openaccess)
-![Maintainer](https://img.shields.io/badge/Maintainer-Thành%20Danh-blueviolet?style=flat-square&logo=github)
-
-This repository documents all learning content and practice for the **"Introduction to Critical Infrastructure Protection (CIP)"** course provided by ICIP – OSWAT.  
-It includes notes, demos, risk simulations, screenshots, and a certificate of completion.
-
----
-
-## 📚 Course Notes
-
 All notes are written in Markdown, covering technical and policy-based aspects of ICS and CIP:
 
 - 🧭 [`cip-overview.md`](./notes/cip-overview.md) – Introduction, scope, and sectors of CIP  
